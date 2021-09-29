@@ -1,0 +1,16 @@
+.colorred {
+  color:red;
+}
+
+.colorblue {
+  color;blue;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.table {
+  border-radius: 8px;
+  border: 2px solid red;
+}
